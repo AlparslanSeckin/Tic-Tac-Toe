@@ -23,5 +23,5 @@ the 26,830 possible games up to rotations and reflections (the game tree complex
 
 *then this java TicTacToe
 
-I used Eclipse IDE with WindowBuilder (GUI Desinger plugin) to write this application.
+I used Eclipse IDE with WindowBuilder (GUI Designer plugin) to write this application.
 I will try to add simple AI and possibly convert this project into .jar file.

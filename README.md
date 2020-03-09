@@ -12,9 +12,13 @@ to enumerate the 765 essentially different positions (the state space complexity
 the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space.
 
 //Prerequisites
+
 -Install Java SE Runtime Environment 8.
+
 -Navigate to folder of download file with console(cmd)
+
 -write this command javac TicTacToe.java
+
 -then this java TicTacToe
 
 I used Eclipse IDE with WindowBuilder (GUI Desinger plugin) to write this application.
